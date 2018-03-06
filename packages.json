@@ -1,0 +1,19 @@
+{
+    "schema_version": "3.0.0",
+
+    "packages": [
+        {
+            "name": "OverrideAudit",
+            "details": "https://github.com/OdatNurd/OverrideAudit",
+            "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
+            "homepage": "https://odatnurd.net/overrideaudit/",
+            "labels": ["diff", "compare", "resource", "package development"],
+            "releases": [
+                {
+                    "sublime_text": ">=3092",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
