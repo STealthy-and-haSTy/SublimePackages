@@ -10,7 +10,11 @@
             "labels": ["diff", "compare", "resource", "package development"],
             "releases": [
                 {
-                    "sublime_text": ">=3092",
+                    "sublime_text": "3092 - 3196",
+                    "tags": "legacy-v"
+                },
+                {
+                    "sublime_text": ">=3197",
                     "tags": true
                 }
             ]
