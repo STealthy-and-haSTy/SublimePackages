@@ -13,6 +13,16 @@
             ]
         },
         {
+            "name": "ProjectSpecificKeys",
+            "details": "https://github.com/OdatNurd/ProjectSpecificKeys",
+            "releases": [
+                {
+                    "sublime_text": ">=4050",
+                    "tags": true
+                }
+            ]
+        },        
+        {
             "name": "SnAPI",
             "details": "https://github.com/STealthy-and-haSTy/SnAPI",
             "releases": [
