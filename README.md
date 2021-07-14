@@ -7,7 +7,7 @@ default [Package Control Channel](https://github.com/wbond/package_control_chann
 as well as providing an alternate channel for packages currently under
 development.
 
-The [packages.jsoon](packages.json) file is directly included by Package
+The [packages.json](packages.json) file is directly included by Package
 Control, which makes all packages defined within it directyly available to
 every Package Control user.
 
