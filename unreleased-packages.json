@@ -13,6 +13,16 @@
             ]
         },
         {
+            "name": "PythonDocs",
+            "details": "https://github.com/gwenzek/PythonDocs",
+            "releases": [
+                {
+                    "sublime_text": ">=4106",
+                    "tags": true
+                }
+            ]
+        },  
+        {
             "name": "ProjectSpecificKeys",
             "details": "https://github.com/OdatNurd/ProjectSpecificKeys",
             "releases": [
