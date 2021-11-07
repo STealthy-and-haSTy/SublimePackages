@@ -21,7 +21,7 @@
                     "tags": true
                 }
             ]
-        },  
+        },
         {
             "name": "ProjectSpecificKeys",
             "details": "https://github.com/OdatNurd/ProjectSpecificKeys",
@@ -31,7 +31,17 @@
                     "tags": true
                 }
             ]
-        },        
+        },
+        {
+            "name": "ScopeView",
+            "details": "https://github.com/OdatNurd/ScopeView",
+            "releases": [
+                {
+                    "sublime_text": ">=3170",
+                    "tags": true
+                }
+            ]
+        },
         {
             "name": "SnAPI",
             "details": "https://github.com/STealthy-and-haSTy/SnAPI",
