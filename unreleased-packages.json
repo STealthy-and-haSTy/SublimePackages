@@ -3,6 +3,16 @@
 
     "packages": [
         {
+            "name": "EnhancedSnippets",
+            "details": "https://github.com/STealthy-and-haSTy/EnhancedSnippets",
+            "releases": [
+                {
+                    "sublime_text": ">=4073",
+                    "tags": true
+                }
+            ]
+        },        
+        {
             "name": "HyperHelpAuthor",
             "details": "https://github.com/STealthy-and-haSTy/HyperHelpAuthor",
             "releases": [
