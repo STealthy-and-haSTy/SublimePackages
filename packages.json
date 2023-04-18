@@ -26,9 +26,9 @@
         {
             "name": "YamlPipelines",
             "details": "https://github.com/SublimeText/YamlPipelines",
-            "readme": "https://github.com/SublimeText/YamlPipelines/master/README.md",
+            "readme": "https://github.com/SublimeText/YamlPipelines/blob/master/README.md",
             "homepage": "https://github.com/SublimeText/YamlPipelines",
-            "labels": ["github", "actions", "yaml", "ci", "cd", "azuredevops"],
+            "labels": ["github", "actions", "yaml", "continuous-integration", "continuous-deployment", "azuredevops"],
             "releases": [
                 {
                     "sublime_text": ">=4126",
