@@ -22,6 +22,19 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "YamlPipelines",
+            "details": "https://github.com/SublimeText/YamlPipelines",
+            "readme": "https://github.com/SublimeText/YamlPipelines/master/README.md",
+            "homepage": "https://github.com/SublimeText/YamlPipelines",
+            "labels": ["github", "actions", "yaml", "ci", "cd", "azuredevops"],
+            "releases": [
+                {
+                    "sublime_text": ">=4126",
+                    "tags": true
+                }
+            ]
         }
     ]
 }
