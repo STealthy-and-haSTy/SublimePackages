@@ -35,6 +35,19 @@
                     "tags": true
                 }
             ]
+        },
+        {
+            "name": "Containerfile",
+            "details": "https://github.com/keith-hall/Dockerfile-sublime-syntax",
+            "readme": "https://github.com/keith-hall/Dockerfile-sublime-syntax/raw/master/README.md",
+            "homepage": "https://github.com/keith-hall/Dockerfile-sublime-syntax",
+            "labels": ["docker", "container", "dockerfile", "podman"],
+            "releases": [
+                {
+                    "sublime_text": ">=4126",
+                    "tags": "ST4-v"
+                }
+            ]
         }
     ]
 }
