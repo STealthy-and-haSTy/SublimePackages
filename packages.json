@@ -3,6 +3,19 @@
 
     "packages": [
         {
+            "name": "Containerfile",
+            "details": "https://github.com/keith-hall/Containerfile-sublime-syntax",
+            "readme": "https://github.com/keith-hall/Containerfile-sublime-syntax/raw/master/README.md",
+            "homepage": "https://github.com/keith-hall/Containerfile-sublime-syntax",
+            "labels": ["docker", "container", "dockerfile", "podman", "containerfile"],
+            "releases": [
+                {
+                    "sublime_text": ">=4126",
+                    "tags": "ST4-v"
+                }
+            ]
+        },
+        {
             "name": "OverrideAudit",
             "details": "https://github.com/OdatNurd/OverrideAudit",
             "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
