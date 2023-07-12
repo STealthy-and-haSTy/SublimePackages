@@ -5,7 +5,7 @@
         {
             "name": "Containerfile",
             "details": "https://github.com/keith-hall/Containerfile-sublime-syntax",
-            "readme": "https://github.com/keith-hall/Containerfile-sublime-syntax/raw/master/README.md",
+            "readme": "https://raw.githubusercontent.com/keith-hall/Containerfile-sublime-syntax/master/README.md",
             "homepage": "https://github.com/keith-hall/Containerfile-sublime-syntax",
             "labels": ["docker", "container", "dockerfile", "podman", "containerfile"],
             "releases": [
