@@ -19,7 +19,7 @@
             "name": "OverrideAudit",
             "details": "https://github.com/OdatNurd/OverrideAudit",
             "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",
-            "homepage": "https://odatnurd.net/overrideaudit/",
+            "homepage": "https://overrideaudit.odatnurd.net/",
             "labels": ["diff", "compare", "resource", "package development"],
             "releases": [
                 {
