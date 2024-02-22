@@ -29,6 +29,20 @@
             ]
         },
         {
+            "name": "EnhancedSnippets",
+            "details": "https://github.com/STealthy-and-haSTy/EnhancedSnippets",
+            "readme": "https://raw.githubusercontent.com/STealthy-and-haSTy/EnhancedSnippets/master/README.md",
+            "homepage": "https://enhancedsnippets.odatnurd.net/",
+            "author": "OdatNurd",
+            "labels": ["snippet", "snippets", "completion", "completions", "yaml snippet"],
+            "releases": [
+                {
+                    "sublime_text": ">=4073",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "OverrideAudit",
             "details": "https://github.com/OdatNurd/OverrideAudit",
             "readme": "https://raw.githubusercontent.com/OdatNurd/OverrideAudit/stable/README.md",

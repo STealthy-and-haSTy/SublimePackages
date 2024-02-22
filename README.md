@@ -8,7 +8,7 @@ as well as providing an alternate channel for packages currently under
 development.
 
 The [packages.json](packages.json) file is directly included by Package
-Control, which makes all packages defined within it directyly available to
+Control, which makes all packages defined within it directly available to
 every Package Control user.
 
 The [unreleased-packages.json](unreleased-packages.json) file is an additional
