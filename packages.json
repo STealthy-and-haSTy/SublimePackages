@@ -16,6 +16,19 @@
             ]
         },
         {
+            "name": "EnhancedFontResizer",
+            "details": "https://github.com/STealthy-and-haSTy/EnhancedFontResizer",
+            "readme": "https://raw.githubusercontent.com/STealthy-and-haSTy/EnhancedFontResizer/master/README.md",
+            "author": "OdatNurd",
+            "labels": ["font", "font zoom"],
+            "releases": [
+                {
+                    "sublime_text": ">=4153",
+                    "tags": true
+                }
+            ]
+        },
+        {
             "name": "EnhancedSnippets",
             "details": "https://github.com/STealthy-and-haSTy/EnhancedSnippets",
             "readme": "https://raw.githubusercontent.com/STealthy-and-haSTy/EnhancedSnippets/master/README.md",
