@@ -3,6 +3,16 @@
 
     "packages": [
         {
+            "name": "Envault",
+            "details": "https://github.com/OdatNurd/Envault",
+            "releases": [
+                {
+                    "sublime_text": ">=4095",
+                    "tags": true
+                }
+            ]
+        },        
+        {
             "name": "HyperHelpAuthor",
             "details": "https://github.com/STealthy-and-haSTy/HyperHelpAuthor",
             "releases": [
