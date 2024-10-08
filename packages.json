@@ -3,6 +3,19 @@
 
     "packages": [
         {
+            "name": "CodeOwnerInsights",
+            "details": "https://github.com/STealthy-and-haSTy/CodeOwnerInsights",
+            "readme": "https://raw.githubusercontent.com/STealthy-and-haSTy/CodeOwnerInsights/master/README.md",
+            "homepage": "https://github.com/STealthy-and-haSTy/CodeOwnerInsights",
+            "labels": ["codeowners", "github"],
+            "releases": [
+                {
+                    "sublime_text": ">=4153",
+                    "tags": "ST4-v"
+                }
+            ]
+        },
+        {
             "name": "Containerfile",
             "details": "https://github.com/keith-hall/Containerfile-sublime-syntax",
             "readme": "https://raw.githubusercontent.com/keith-hall/Containerfile-sublime-syntax/master/README.md",
