@@ -5,7 +5,7 @@
         {
             "name": "CodeOwnerInsights",
             "details": "https://github.com/STealthy-and-haSTy/CodeOwnerInsights",
-            "readme": "https://raw.githubusercontent.com/STealthy-and-haSTy/CodeOwnerInsights/master/README.md",
+            "readme": "https://raw.githubusercontent.com/STealthy-and-haSTy/CodeOwnerInsights/main/README.md",
             "homepage": "https://github.com/STealthy-and-haSTy/CodeOwnerInsights",
             "labels": ["codeowners", "github"],
             "releases": [
