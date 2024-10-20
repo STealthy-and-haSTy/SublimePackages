@@ -88,7 +88,7 @@
                     "tags": "ST4-v"
                 }
             ]
-        }
+        },
         {
             "name": "YamlPipelines",
             "details": "https://github.com/SublimeText/YamlPipelines",
