@@ -77,6 +77,19 @@
             ]
         },
         {
+            "name": "YamlPath",
+            "details": "https://github.com/keith-hall/SublimeYamlPath",
+            "readme": "https://raw.githubusercontent.com/keith-hall/SublimeYamlPath/refs/heads/master/README.md",
+            "homepage": "https://github.com/keith-hall/SublimeYamlPath",
+            "labels": ["yaml", "json", "navigation"],
+            "releases": [
+                {
+                    "sublime_text": ">=4153",
+                    "tags": "ST4-v"
+                }
+            ]
+        }
+        {
             "name": "YamlPipelines",
             "details": "https://github.com/SublimeText/YamlPipelines",
             "readme": "https://raw.githubusercontent.com/SublimeText/YamlPipelines/master/README.md",
