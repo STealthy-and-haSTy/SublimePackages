@@ -23,6 +23,16 @@
             ]
         },
         {
+            "name": "MacroPalette",
+            "details": "https://github.com/STealthy-and-haSTy/MacroPalette",
+            "releases": [
+                {
+                    "sublime_text": ">=4073",
+                    "tags": true
+                }
+            ]
+        },        
+        {
             "name": "PythonDocs",
             "details": "https://github.com/gwenzek/PythonDocs",
             "releases": [
