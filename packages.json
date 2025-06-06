@@ -67,11 +67,11 @@
                     "tags": "legacy-v"
                 },
                 {
-                    "sublime_text": "3197 - 4125",
+                    "sublime_text": "3197 - 4199",
                     "tags": "st3-v"
                 },
                 {
-                    "sublime_text": ">=4126",
+                    "sublime_text": ">=4200",
                     "tags": true
                 }
             ]
