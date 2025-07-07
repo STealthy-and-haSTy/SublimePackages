@@ -20,7 +20,7 @@
             "details": "https://github.com/keith-hall/Containerfile-sublime-syntax",
             "readme": "https://raw.githubusercontent.com/keith-hall/Containerfile-sublime-syntax/master/README.md",
             "homepage": "https://github.com/keith-hall/Containerfile-sublime-syntax",
-            "labels": ["docker", "container", "dockerfile", "podman", "containerfile"],
+            "labels": ["language syntax", "docker", "container", "dockerfile", "podman", "containerfile"],
             "releases": [
                 {
                     "sublime_text": ">=4126",
@@ -94,7 +94,7 @@
             "details": "https://github.com/SublimeText/YamlPipelines",
             "readme": "https://raw.githubusercontent.com/SublimeText/YamlPipelines/master/README.md",
             "homepage": "https://github.com/SublimeText/YamlPipelines",
-            "labels": ["github", "actions", "yaml", "continuous-integration", "continuous-deployment", "azuredevops"],
+            "labels": ["language syntax", "github", "actions", "yaml", "continuous-integration", "continuous-deployment", "azuredevops"],
             "releases": [
                 {
                     "sublime_text": ">=4126",
